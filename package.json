@@ -4,7 +4,8 @@
   "description": "Vue.js application for automating Webtoon tasks",
   "main": "index.js",
   "scripts": {
-    "serve": "vue-cli-service serve"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
   },
   "author": "",
   "license": "ISC",
