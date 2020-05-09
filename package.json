@@ -1,0 +1,20 @@
+{
+  "name": "@webtoon-automation/web",
+  "version": "1.0.0",
+  "description": "Vue.js application for automating Webtoon tasks",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "streamsaver": "^2.0.4",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.3.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
